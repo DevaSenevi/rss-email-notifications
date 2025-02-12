@@ -60,5 +60,5 @@ python hello_email.py
 If using another email provider, update the SMTP settings accordingly.**
 
 ### **📜 License**
-This project is released under the MIT License – You can use, modify, and share freely :)
+This project is released under the MIT License – You can use, modify, and share freely 😊
 
